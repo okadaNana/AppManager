@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="more_action">
+        <item>打开应用</item>
+        <item>卸载应用</item>
+        <item>去市场看看</item>
+    </string-array>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/nav_group_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_open_recent"
+            android:checked="true"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="@string/nav_recent_open"/>
+
+        <item
+            android:id="@+id/nav_collection"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="@string/nav_collection"/>
+
+        <item
+            android:id="@+id/nav_installed"
+            android:icon="@drawable/ic_archive_black_24dp"
+            android:title="@string/nav_has_installed"/>
+
+        <item
+            android:id="@+id/nav_export"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="@string/nav_export"/>
+    </group>
+
+    <group
+        android:id="@+id/nav_group_2"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_donate"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="@string/nav_support_dev"/>
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="@string/nav_setting"/>
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_assessment_black_24dp"
+            android:title="@string/nav_about"/>
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="@string/nav_feedback"/>
+    </group>
+
+</menu>

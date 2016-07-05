@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppPlus</string>
+    <string name="nav_recent_open">最近打开</string>
+    <string name="nav_collection">收藏</string>
+    <string name="nav_has_installed">已安装</string>
+    <string name="nav_export">已导出APK</string>
+    <string name="nav_support_dev">支持开发者</string>
+    <string name="nav_setting">设置</string>
+    <string name="nav_about">关于</string>
+    <string name="nav_feedback">意见反馈</string>
+    <string name="empty"/>
+    <string name="version_code">version code: %1$s</string>
+    <string name="tv_share_app">分享安装包</string>
+    <string name="export_to_local_dish">导出到本地</string>
+    <string name="view_more_detail">查看应用详情</string>
+    <string name="more_operation">更多操作</string>
+    <string name="menu_pop_item_share">分享安装包</string>
+    <string name="menu_pop_item_file">导出到本地</string>
+    <string name="menu_pop_item_detail">查看应用详情</string>
+    <string name="apk_file_exists">安装包 %1$s 已存在于文件夹 %2$s 下，是否覆盖？</string>
+    <string name="not_override">不覆盖</string>
+    <string name="override">覆盖</string>
+    <string name="view_file">去查看</string>
+    <string name="are_sure_want_to_export">确定要将 %1$s 的安装包导出到本地目录 %2$s 下吗？</string>
+</resources>

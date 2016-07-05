@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pop_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/menu_pop_item_share"/>
+    <item
+        android:id="@+id/pop_export"
+        android:icon="@drawable/ic_archive_black_24dp"
+        android:title="@string/menu_pop_item_file"/>
+    <item
+        android:id="@+id/pop_detail"
+        android:icon="@drawable/ic_error_outline_black_24dp"
+        android:title="@string/menu_pop_item_detail"/>
+</menu>
